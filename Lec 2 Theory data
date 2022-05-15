@@ -1,0 +1,11 @@
+Difference between isdigit and isnumeric
+
+isnumeric method has a number of key differences between the Python isdigit method. While the isidit method checks whether the string contains only digits, the isnumeric method checks whether all the characters are numeric.
+How is isdecimal() different from isdigit()?
+isdecimal() method supports only Decimal Numbers. isdigit() method supports Decimals, Subscripts, Superscripts. isnumeric() method supports Digits, Vulgar Fractions, Subscripts, Superscripts, Roman Numerals
+
+s = "this is My First Python programming class and I am learNING python string and its function"
+s[1:300:3]
+sw.capitalize()
+sw.lower()
+sw.upper()
